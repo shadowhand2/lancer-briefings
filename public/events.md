@@ -1,4 +1,4 @@
-# The Nullor District // DS-8 // 03.06.5016u
+# Nullor District // DS-8 // 03.06.5016u
 Having met with **Lieutenant Kizhe** in the day previous, the squad went to meet with **Mayor Buccheri** to discuss the resources required to reach **Thoe** and get into the city. After Nayuta received a call from **Girigi Lyueva** the party decided to instead send a representative from the **House of No Fixed Abode**, and went of to **The Nullor Disctrict** to give Girigi a hand.
 
 The squad discovered that a prototype mech that one of **Girigi's** associates had sent him to have a look at had gone haywire, stealing the control unit for **Girigi's** subalterns and escaping into **The Nullor District**. After racing in to track down the haywire mech, and retrieve **Girigi's** subaltern units, they managed to smash the place up enough to warrant a police response.
