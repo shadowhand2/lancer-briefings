@@ -89,71 +89,71 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "003",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "I'm In Your Mind Fuzz",
           "status": "start"
         },
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
+          "callsign": "Evan",
+          "alias": "Evan Campbert",
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "corpro": "HORUS",
+          "frame": "Lich",
+          "mech": "GMS STANDARD UNIT"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
+          "callsign": "Flamma",
+          "alias": "Nessa Boemon",
           "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
+          "corpro": "HA",
+          "frame": "Enkidu",
+          "mech": "Honda"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
+          "callsign": "Gawain",
+          "alias": "Elaine 'Morgan' Pendragon",
           "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "corpro": "IPS-N",
+          "frame": "Drake",
+          "mech": "Gringolet"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
+          "callsign": "Mahayana",
+          "alias": "Nayuta Hayakawa",
           "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "corpro": "IPS-N",
+          "frame": "Caliban",
+          "mech": "Unrivalled Under Heaven"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
+          "callsign": "Montera",
+          "alias": 'Dirk Krumm',
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "corpro": "HA",
+          "frame": "Sunzi",
+          "mech": "The Means of Production"
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
+        "planet": "DS-8",
+        "year": "5016u",
+        "system": "Dawnline Shore",
         "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
+        "ring": "Annamite-Line",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderTitle": "Lancer Squadron",
+        "subheaderSubtitle": "495th Division",
       },
       "options":{
-        "eventsMarkdownPerMission": false
+        "eventsMarkdownPerMission": true
       }
     }
   },
